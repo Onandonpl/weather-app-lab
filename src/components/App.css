@@ -1,0 +1,12 @@
+.result {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
